@@ -49,7 +49,7 @@ The objective of ClimateScope is to analyze and visually represent global weathe
 - Enable anomaly alerts for extreme events.
 
 ## Architecture Diagram
-<img width="528" height="1040" alt="Untitled diagram _ Mermaid Chart-2025-08-27-193857" src="https://github.com/user-attachments/assets/10f45b00-0ca8-4698-999c-b0bfada4da2c" />
+<img width="498" height="940" alt="Untitled diagram _ Mermaid Chart-2025-08-27-193857" src="https://github.com/user-attachments/assets/10f45b00-0ca8-4698-999c-b0bfada4da2c" />
 
 
 ## Tech Stack
